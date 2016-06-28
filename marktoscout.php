@@ -27,7 +27,13 @@
 											
 						<h2>Markt-o-Scout</h2>
 						<p>Samen met <a target="_blank" href="https://github.com/Robinwist">Robin Wist</a> hebben wij ons eerste Laravel project gestart. <br>
-							Het idee erachter was om meer te leren over Laravel, wij hebben een opstart gemaakt voor een 2e hands webshop.</p>
+							Het idee erachter was om meer te leren over Laravel, wij hebben een opstart gemaakt voor een 2e hands webshop. <br>
+							In dit project heb ik het volgende geleerd: </p>
+							<ul>
+								<li>- Het werken met Laravel.</li>
+								<li>- Gebruik maken van Object Oriented Programming</li>
+								<li>- Het werken met een template Engine (Blade van Laravel).</li>
+							</ul>
 
 							<p>Link naar de code: <br>
 							<ul>
